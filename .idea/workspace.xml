@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c16b01a6-8cf4-458c-b71b-5a2f42a0616a" name="Changes" comment="First script">
+    <list default="true" id="c16b01a6-8cf4-458c-b71b-5a2f42a0616a" name="Changes" comment="adding my files">
+      <change beforePath="$PROJECT_DIR$/.idea/Rheumatoid_Arthritis_GEO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Rheumatoid_Arthritis_GEO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_mapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_mapping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_wrangling.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_wrangling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,18 +32,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "UtaHar"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;UtaHar&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:/UtaHar/Rheumatoid_Arthritis_GEO.git",
-    "accountId": "97f54980-458c-42c9-93eb-4906ba55f533"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:/UtaHar/Rheumatoid_Arthritis_GEO.git&quot;,
+    &quot;accountId&quot;: &quot;97f54980-458c-42c9-93eb-4906ba55f533&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -53,6 +58,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.data_mapping.executor": "Run",
     "Python.data_wrangling.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -62,8 +68,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="\\wsl.localhost\Ubuntu-26.04\home\uta-h\Rheumatoid_Arthritis_GEO\.idea" />
       <recent name="\\wsl.localhost\Ubuntu-26.04\home\uta-h\Rheumatoid_Arthritis_GEO" />
+      <recent name="\\wsl.localhost\Ubuntu-26.04\home\uta-h\Rheumatoid_Arthritis_GEO\data" />
+      <recent name="\\wsl.localhost\Ubuntu-26.04\home\uta-h\Rheumatoid_Arthritis_GEO\src" />
+      <recent name="\\wsl.localhost\Ubuntu-26.04\home\uta-h\Rheumatoid_Arthritis_GEO\.idea" />
     </key>
   </component>
   <component name="SharedIndexes">
