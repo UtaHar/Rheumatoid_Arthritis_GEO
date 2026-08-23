@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c16b01a6-8cf4-458c-b71b-5a2f42a0616a" name="Changes" comment="adding my files">
+      <change afterPath="$PROJECT_DIR$/src/calculating_distances.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/intermediate_df.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/intermediate_df.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/data_mapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_mapping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_wrangling.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_wrangling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
