@@ -1,6 +1,6 @@
-import data_wrangling
-import data_mapping
+# import data_wrangling
+from data_mapping import map_df
 
-df = get_df()
+
 map_df()
-
+# df = get_df()
